@@ -17,6 +17,7 @@ Welcome to ShopSee, a full-featured e-commerce platform built with React, provid
 ### Prerequisites
 
 Before running the project, make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
+Most Important thing is to write npm install before running npm start so that all the node packages are being downloaded.
 
 ### Installation
 
